@@ -1,0 +1,38 @@
+1. Defina o que é um sistema operacional.
+
+O sistema operacional é um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de arquivos a programas de terceiros, estabelecendo a interface entre o computador e o usuário.
+
+2. Qual é a função principal de um sistema operacional
+
+O sistema operacional (SO) é responsável por controlar e coordenar os programas em execução. Isso inclui a alocação de recursos, como memória e tempo de processador, para cada aplicação.
+
+3. Explique como o sistema operacional gerencia os processos em execução no computador.
+
+O sistema operacional introduz uma camada de abstração entre o hardware e o usuário, que transforma comandos no mouse, teclado e solicitações do sistema, como gerenciamento de recursos (CPU, memória RAM), em linguagem de máquina, enviando instruções ao processador.
+
+4. Descreva o papel do sistema operacional no gerenciamento da memória.
+
+Na verdade, cabe aos sistemas operacionais definirem estratégias de gerenciamento não só para utilizar a memória, mas também procurarem utilizar-se de outras fontes de armazenamento, como o HD, e até dispositivos removíveis, como os pendrives, para suprir a necessidade de espaço de memória dos usuários e seus programas 
+
+5. Como o sistema operacional controla os dispositivos periféricos conectados ao computador?
+
+enviar sinais, informando as ações que o usuário espera que o dispositivo realize; tratar as interrupções e erros gerados pelos dispositivos.
+
+6. Dê dois exemplos de sistemas operacionais para computadores e dois para dispositivos móveis.
+
+o Windows, da Microsoft, o macOS, da Apple, e o Linux, de código aberto. Em celulares, Android e iOS são exemplos de sistemas operacionais populares.
+
+7.Qual é a diferença entre uma interface gráfica (GUI) e uma interface de linha de comando (CLI)?
+
+Quando se trata de uso de recursos do sistema, a CLI tem uma clara vantagem. Ele geralmente consome menos memória e poder de processamento do que uma GUI
+
+8. Por que o sistema operacional é considerado essencial para o funcionamento de dispositivos eletrônicos?
+le coordena recursos como memória e processamento, proporcionando uma interface entre o usuário e o hardware, facilitando a utilização do dispositivo.
+
+9. Cite e explique pelo menos três funções principais de um sistema operacional.
+
+Gerenciar recursos como processador, RAM, sistemas de arquivos e dispositivos de entrada e saída (monitor, teclado, mouse, impressora, etc.); Gerenciar processos (execução) de programas; Gerenciar o uso de dispositivos, memória do sistema 
+
+10.Como o sistema operacional organiza os dados em dispositivos de armazenamento, como discos rígidos?
+ 
+rganização Eficiente de Dados: O sistema de arquivos organiza os dados em uma estrutura hierárquica, incluindo arquivos, pastas e diretórios

@@ -1,0 +1,16 @@
+Um sistema operacional (50) é um software fundamental que gerencia o hardware e os recursos de um computador, além de fornecer serviços essenciais para que outros programas possam funcionar. ele atua como uma ponte entre o usuário e o hardware do computador, facilitando a execução de tarefas e garantindo que os recursos sejam utilizados de forma eficiente.
+
+Funções principais de um sistema operacional:
+Gerenciamento de Processo: Controla os programa em execução, aloco de processamento da CPU e garanta que eles sejam executados de forma ordenada.
+Gerenciamento de Memória: Organiza a memória RAM, garantindo que os aplicativos em execução tenham o espaço necessário para 
+funcionar.
+Gerenciamento de Armazenamento: Controla como os dados são armazenados e acessados no disco rígido ou em outros dispositivos
+ de armazenamento.
+gerenciamento de dispositivos: Coordena a comunicação entre o computador e seus periféricos, como teclado, mouse, impressoras e outros.
+Interface com o Usuário: Oferece uma Interface gráfica (GUI) ou Linha da comando (CLT) para que o usuário interaja com o sistema.
+Exemplos de sistemas operacionais:
+Windows (Microsoft)
+Linux (ex.: Ubuntu, Fedora, Debian)
+macOS (apple)
+Android e 10s (para dispositivos móveis)
+Os sistemas operacionais são indispensáveis para o funcionamento de qualquer dispositivo, seja ele um computador, smartphone ou até mesmo um eletrodoméstico moderno.
